@@ -1,0 +1,514 @@
+[
+    {
+        "outputFile": "/Users/mikeabelar/Desktop/hths hacks/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endColumn": 40,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 39,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 95,
+                        "endColumn": 35,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 39,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 39,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 37,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 37,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 57,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 55,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endLine": 11,
+                    "endColumn": 204,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endLine": 12,
+                        "endColumn": 204,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 44,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 44,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endColumn": 54,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 54,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 35,
+                    "endOffset": 1125
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 35,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1130,
+                    "endColumn": 33,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 33,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 66,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 66,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endColumn": 40,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 39,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 95,
+                        "endColumn": 35,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 39,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 39,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 37,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 37,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 57,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 55,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endLine": 11,
+                    "endColumn": 204,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endLine": 12,
+                        "endColumn": 204,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 44,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 44,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endColumn": 54,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 54,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 35,
+                    "endOffset": 1125
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 35,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1130,
+                    "endColumn": 33,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 33,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 66,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 66,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]

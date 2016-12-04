@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background">
+
+
+    <ImageView
+        android:src="@mipmap/settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView6"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/imageView7" />
+
+    <ImageView
+        android:src="@mipmap/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView6"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/summaries"
+        android:layout_toLeftOf="@+id/summaries" />
+
+    <ImageView
+        android:src="@mipmap/share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView8"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:id="@+id/summaries"
+
+        android:text="View Summaries"
+        android:textColor="#4E009C"
+        android:textSize="30sp"
+
+        android:layout_width="270dp"
+        android:layout_height="60dp"
+        android:background="@drawable/button"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:layout_marginBottom="67dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/listen"
+        android:layout_alignStart="@+id/listen" />
+
+    <Button
+        android:id="@+id/listen"
+
+        android:text="Listen"
+        android:textColor="#4E009C"
+        android:textSize="30sp"
+
+        android:layout_width="270dp"
+        android:layout_height="60dp"
+        android:background="@drawable/button"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:layout_marginTop="41dp"
+        android:layout_below="@+id/imageView9"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:src="@mipmap/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView9"
+        android:layout_below="@+id/imageView7"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
+
+</RelativeLayout>

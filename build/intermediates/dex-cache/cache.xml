@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/libs/knowledgebooks-with-data-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="feb5a0ba7e438d452aff960ce88ef2dacd19700b">
+        <dex dex="/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/build/intermediates/pre-dexed/debug/knowledgebooks-with-data-0.2.0_3d28b17d66049bb58acb9eba14b66a4cd72c88f0.jar" />
+    </item>
+
+</items>

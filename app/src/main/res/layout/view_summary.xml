@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Original Talk:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textStyle="normal|bold"
+        android:textSize="30sp" />
+
+    <TextView
+        android:text="Summary of Talk:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView2"
+        android:textStyle="normal|bold"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/delete"
+
+        android:text="Delete"
+        android:textColor="#4E009C"
+        android:textSize="20sp"
+
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:background="@drawable/button"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <ScrollView
+        android:id="@+id/SCROLLER_ID"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:fillViewport="true"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/textView2">
+
+        <TextView
+            android:id="@+id/original_text"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:text="Original"
+            android:layout_above="@+id/textView2"
+            android:layout_below="@+id/textView"
+            android:layout_margin="5dp" />
+
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/SCROLLER_ID_2"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:fillViewport="true"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/delete">
+
+        <TextView
+            android:id="@+id/summarized_text"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:text="Summary"
+            android:layout_above="@+id/textView2"
+            android:layout_below="@+id/textView"
+            android:layout_margin="5dp" />
+
+    </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/android/app/build/intermediates/res/merged/debug/menu/finder.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/menu/finder.xml"
+    },
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/build/intermediates/res/merged/debug/menu/finder.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/menu/finder.xml"
+    }
+]

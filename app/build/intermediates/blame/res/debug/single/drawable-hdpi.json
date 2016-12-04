@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

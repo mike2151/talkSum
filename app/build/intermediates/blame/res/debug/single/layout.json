@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/android/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/build/intermediates/res/merged/debug/layout/summaries.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/layout/summaries.xml"
+    },
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/build/intermediates/res/merged/debug/layout/view_summary.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/layout/view_summary.xml"
+    },
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/android/app/build/intermediates/res/merged/debug/layout/activity_finder.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/layout/activity_finder.xml"
+    },
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/android/app/build/intermediates/res/merged/debug/layout/summaries.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/layout/summaries.xml"
+    },
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/build/intermediates/res/merged/debug/layout/activity_finder.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/PhoneFinder-master/app/src/main/res/layout/activity_finder.xml"
+    },
+    {
+        "merged": "/Users/mikeabelar/Desktop/hths hacks/android/app/build/intermediates/res/merged/debug/layout/view_summary.xml",
+        "source": "/Users/mikeabelar/Desktop/hths hacks/android/app/src/main/res/layout/view_summary.xml"
+    }
+]
